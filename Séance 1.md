@@ -311,18 +311,18 @@ Donc, chez Descartes, les concepts clés sont l'étendue et les lois de la natur
 
 Chez Descartes, les concepts clés sont l'étendue et les lois de la nature. Chez Rousseau, qui s'inspire directement de Descartes, les concepts essentiels sont l'amour de soi, la pitié et la perfectibilité.
 
-Question : Ces principes, s'ils sont plutôt des fondements d’évaluation alors ils sont en milieu ?
-
-Ils le sont parce qu'ils sont immédiatement actifs dans l'être sensible. Ils sont ce qui est immédiatement attaché à l'existence de cet être sensible qu'est l'homme.
-
-Question : La différence entre les principes et le disposition ?
-
-Les principes de l'amour de soi et de la pitié sont immédiatement actifs dans l'être sensible. En revanche, la perfectibilité n'est pas active de manière immédiate. Elle nécessite des circonstances particulières pour se manifester. C'est là que réside la différence.
-
-Question : Est-ce que Rousseau est mécaniste ?
-
-Rousseau n'est pas intégralement mécaniste au sens où il adopterait une vision matérialiste de la nature humaine. Ce qui l'intéresse avant tout, c'est l'épistémologie, ou la méthode. Il ne s'agit pas pour lui de formuler des thèses sur la nature humaine.
-
-Question : La différence entre la perfectibilité et la perfection ?
-
-À un certain moment dans le développement de la nature humaine, cet être va développer des aspirations plus élevées, qui pourraient être perçues comme définissant la perfection de sa nature, par exemple, l'amour de Dieu. Cependant, la *perfectibilité*, chez Rousseau, est quelque chose de plus rudimentaire et fondamental. Elle doit être comprise comme la capacité de l'homme à se perfectionner en fonction des circonstances extérieures. Elle n'est pas attachée à l'idée de perfection telle qu'on la comprend habituellement. Dans le *Second discours*, la *perfectibilité* n'est pas associée à l'atteinte d'une position idéale ou d'un état de perfection, mais plutôt à la potentialité d'évolution, à la capacité d'adaptation et de transformation selon les conditions environnantes.
+> Question : Ces principes, s'ils sont plutôt des fondements d’évaluation alors ils sont en milieu ?
+>
+> Ils le sont parce qu'ils sont immédiatement actifs dans l'être sensible. Ils sont ce qui est immédiatement attaché à l'existence de cet être sensible qu'est l'homme.
+>
+> Question : La différence entre les principes et le disposition ?
+>
+> Les principes de l'amour de soi et de la pitié sont immédiatement actifs dans l'être sensible. En revanche, la perfectibilité n'est pas active de manière immédiate. Elle nécessite des circonstances particulières pour se manifester. C'est là que réside la différence.
+>
+> Question : Est-ce que Rousseau est mécaniste ?
+>
+> Rousseau n'est pas intégralement mécaniste au sens où il adopterait une vision matérialiste de la nature humaine. Ce qui l'intéresse avant tout, c'est l'épistémologie, ou la méthode. Il ne s'agit pas pour lui de formuler des thèses sur la nature humaine.
+>
+> Question : La différence entre la perfectibilité et la perfection ?
+>
+> À un certain moment dans le développement de la nature humaine, cet être va développer des aspirations plus élevées, qui pourraient être perçues comme définissant la perfection de sa nature, par exemple, l'amour de Dieu. Cependant, la *perfectibilité*, chez Rousseau, est quelque chose de plus rudimentaire et fondamental. Elle doit être comprise comme la capacité de l'homme à se perfectionner en fonction des circonstances extérieures. Elle n'est pas attachée à l'idée de perfection telle qu'on la comprend habituellement. Dans le *Second discours*, la *perfectibilité* n'est pas associée à l'atteinte d'une position idéale ou d'un état de perfection, mais plutôt à la potentialité d'évolution, à la capacité d'adaptation et de transformation selon les conditions environnantes.
