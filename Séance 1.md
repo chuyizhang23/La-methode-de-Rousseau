@@ -203,7 +203,7 @@ Les premiers mots du titre sont « Discours sur l'origine ». Et que lit-on imm�
 >
 > Le point essentiel est que, si l'on adopte cette position conforme à celle de Rousseau, il ne s'agit pas de traiter de l'origine factuelle, mais de celle hypothétique, qu'il convient néanmoins de justifier. En effet, ce qu'il faut expliquer, c'est l'état actuel des choses, notamment l'inégalité qui, selon Rousseau, règne dans toutes les sociétés modernes. Il existe différentes sortes d'inégalités, qui finissent par se manifester principalement sous forme d'inégalités économiques, telles que les inégalités de rentes ou de prestige. Il est donc nécessaire d'expliquer ce que nous observons : une inégalité généralisée. Cependant, Rousseau ne prétend pas le faire en retraçant un développement historique précis et vérifiable.
 
-Dans le texte que je vous ai donné, un autre terme clé est "raisonnement", qu'il faut prendre dans son sens fort. Cela signifie qu'on peut partir d'une origine fictive pour atteindre l'état présent des choses, mais entre ces deux stades, le raisonnement doit être rigoureux. Cela implique, avant tout, de ne tolérer aucune solution de continuité, c'est-à-dire de ne pas introduire de rupture dans la progression de l'explication. Il est essentiel de ne pas faire intervenir un principe extérieur ou ad hoc, et de ne pas sauter d'étape cruciale.
+Dans le texte que je vous ai donné, un autre terme clé est "raisonnement", qu'il faut prendre dans son sens fort. Cela signifie qu'on peut partir d'une origine fictive pour atteindre l'état présent des choses, mais entre ces deux stades, le raisonnement doit être rigoureux. Cela implique, avant tout, de ne tolérer aucune `solution de continuité`, c'est-à-dire de ne pas introduire de rupture dans la progression de l'explication. Il est essentiel de ne pas faire intervenir un principe extérieur ou ad hoc, et de ne pas sauter d'étape cruciale.
 
 En d'autres termes, raisonner signifie que chaque étape doit découler logiquement de la précédente, sans qu'on introduise des principes qui n'auraient pas été posés dès le départ. Le refus des solutions de continuité est central ici. Le terme "solution de continuité" peut prêter à confusion : en français, il désigne un saut ou une rupture dans la continuité, et non une "solution" au sens commun du terme. Refuser toute solution de continuité revient donc à s'assurer qu'il n'y ait aucun écart ou saut logique dans le raisonnement. Ces deux points — l'absence de solution de continuité et l'absence de principes externes — sont fondamentaux pour structurer le raisonnement.
 
@@ -250,3 +250,79 @@ Cependant, Descartes insiste bien sur le fait que cette explication est une fabl
 > Cependant, d'autres soutiennent que Descartes accorde véritablement une valeur à l'idée que Dieu a instantanément créé le monde. Peut-être ne croyait-il pas à la genèse en sept jours, mais l'idée d'une création instantanée par Dieu pourrait effectivement lui sembler crédible. Ce qui importe ici, ce n’est pas tant sa croyance personnelle, mais la place qu’il accorde à l'explication hypothétique, par la reconstruction compressive des phénomènes naturels. L’hypothèse fictive de Descartes — même si elle reste spéculative — a un statut authentique dans la méthode scientifique, car elle permet d'expliquer rationnellement la formation du monde à partir de principes simples, malgré le caractère hypothétique du processus.
 >
 > Il est donc difficile de trancher définitivement. Certains commentateurs y verront un art rhétorique pour éviter les controverses théologiques, tandis que d'autres défendent l’idée que Descartes accorde une véritable valeur à cette explication hypothétique, sans se prononcer sur les détails bibliques. Ce débat continue de nourrir les discussions autour de la pensée de Descartes.
+
+Chez Descartes, les principes posés au commencement sont clairs. Il s'agit d'une matière indifférenciée, autrement dit, une substance étendue dans laquelle aucun corps ne s'est encore formé ni rigidifié. Cette « substance étendue » est, en quelque sorte, l'état initial de la matière avant que les corps ne se différencient. Ensuite, viennent les lois de la nature, qui sont les principes fondamentaux guidant l'évolution de cette matière. Chez Descartes, ces lois de la nature ne sont pas nombreuses, il n'en compte que trois. Elles sont exposées dans la deuxième partie des *Principes de la philosophie*, où il les définit comme les lois qui régissent les mouvements et les interactions des corps. Il est important de noter que pour Descartes, ces trois lois de la nature sont essentielles pour comprendre le développement et l'organisation de la matière à partir de cet état primitif indifférencié. Vous voyez donc que pour Descartes, l'ordre de la nature repose sur la matière et ces trois lois, qui constituent la base de sa cosmologie rationnelle.
+
+> Dans la deuxième partie de ses *Principes de la philosophie*, Descartes expose trois lois de la nature qui constituent une base importante pour sa philosophie naturelle, c'est-à-dire sa vision du monde physique. Ces lois s'inscrivent dans le cadre de sa métaphysique, où Dieu est la cause première de tout mouvement. Voici un résumé de ces trois lois :
+>
+> 1. **Première loi de la nature** : Le principe d'inertie
+>
+>    La première loi de Descartes stipule que **tout objet demeure dans son état de repos ou de mouvement rectiligne uniforme, sauf si une force extérieure agit sur lui**. Cela signifie que dans l'univers, les corps tendent à conserver leur état actuel. Si un corps est au repos, il restera au repos. Si un corps est en mouvement, il continuera à se mouvoir en ligne droite à une vitesse constante, à moins qu'une force externe ne le modifie. Ce principe est similaire à celui formulé plus tard par Isaac Newton sous le nom de "loi d'inertie".
+>
+>    > « Chaque chose, en tant qu'elle est simple et indivisible, demeure toujours en l'état en lequel elle est, autant qu'il est en elle-même, c'est-à-dire que ce qui est une fois en repos demeure toujours en repos, et ce qui est une fois en mouvement continue toujours de se mouvoir. »
+>
+> 2. **Deuxième loi de la nature** : La conservation du mouvement
+>
+>    La deuxième loi précise que **tout mouvement est naturellement rectiligne**. Si un corps se déplace, il le fera toujours en ligne droite, à moins qu'une cause extérieure ne le dévie. Selon Descartes, c'est Dieu qui conserve la quantité totale de mouvement dans l'univers, mais les directions des mouvements individuels peuvent changer lorsqu'ils interagissent avec d'autres corps. Cela revient à dire que les objets ne dévient pas naturellement de leur trajectoire, sauf s'ils sont contraints par d'autres forces ou objets.
+>
+>    > « Chacune des parties de la matière continue de se mouvoir selon une ligne droite. »
+>
+> 3. **Troisième loi de la nature** : L'action-réaction
+>
+>    La troisième loi de Descartes traite de **l'interaction entre les corps**. Lorsqu'un corps en mouvement entre en collision avec un autre corps, il peut perdre ou gagner du mouvement, mais cela se fait toujours en fonction de règles déterminées par Dieu. Descartes postule que la quantité totale de mouvement dans l'univers est conservée, mais que dans les interactions, la façon dont les mouvements sont transmis dépend des caractéristiques des corps en question (leur grandeur, leur forme, etc.). Cette loi préfigure également la loi de Newton sur l'action-réaction.
+>
+>    > « Si un corps en rencontre un autre qui est plus fort que lui, il perdra autant de mouvement qu’il est nécessaire pour que l’autre continue son mouvement, ou bien s'il est égal en force, il lui communiquera autant de mouvement qu'il en a. »
+>
+> Conclusion :
+>
+> Ces trois lois posent les bases d'une mécanique cartésienne qui préfigure les lois de la mécanique classique de Newton. Bien que les formulations de Descartes soient métaphysiques, reposant sur une vision de Dieu comme garant de l'ordre dans le monde physique, elles ont contribué à l'élaboration des concepts fondamentaux de la dynamique dans la science moderne.
+
+##### Les principes de départ chez Rousseau
+
+Qu'est-ce qui peut bien tenir lieu de principes, non plus en physique du globe, mais en anthropologie, pour Rousseau ? Que va-t-on se donner au départ ? Nous avons cet être sensible, une sorte d'animal. Et nous allons présumer un certain nombre de choses que l'on place dès l'origine et à partir desquelles, selon Rousseau, on pourra dégager tout le reste. Quels sont ces principes ?
+
+- L'amour de soi
+
+  L'homme à l'état de nature, selon Rousseau, est naturellement bon et libre, principalement occupé par sa propre survie. En tant qu'être sensible, il tend naturellement à se conserver. Ce qui est essentiel, c'est le principe fondamental qui motive cet instinct de conservation, que Rousseau appelle l'amour de soi. Ce premier principe, l'amour de soi, est présent dès l'origine.
+
+- L'amour propre ❌
+
+  Il vient plus tard. C'est méchant.
+
+- La pitié
+
+  > Question : La pitié, ce n'est pas indirectement lié à la peur de sa propre mort ? On éprouve de la pitié pour quelqu'un parce qu'on s'imagine à sa place.
+  >
+  > C'est un propos qui concerne justement *Émile*.
+
+- La perfectibilité
+
+  C'est le fait de pouvoir activer d'autres facultés.
+
+Question : Il est comptabilisé dans les principes, la perfectibilité ?
+
+Vous avez tout à fait raison de souligner que les véritables principes chez Rousseau sont l'amour de soi et la pitié. Quant à la perfectibilité, elle occupe un statut différent, celui d'une disposition. Ce terme est en effet très intéressant et souvent sous-estimé en philosophie. Alors que la philosophie traditionnelle se concentre souvent sur des notions de substances, de natures, ou de relations, la disposition est un concept fascinant car il ne se limite ni à une substance figée ni à une relation purement externe.
+
+La disposition implique une potentialité, une capacité à être activée sous certaines conditions. Dans le cas de la perfectibilité, celle-ci n'opère qu'en fonction des circonstances. C'est la faculté qui permet à l'être humain de développer progressivement de nouvelles aptitudes en fonction des changements dans son environnement. Par exemple, dans l'état de nature, l'homme n'a ni mémoire, ni imagination, ni entendement, ni langage. Ces facultés se développent à mesure que les circonstances évoluent, et tout cela procède de la perfectibilité.
+
+La perfectibilité n'est donc pas un principe inné qui agit spontanément en l'homme, mais une capacité latente, activée par les circonstances. Il faut des changements extérieurs pour que la perfectibilité se mette en marche. Un exemple déterminant est l'augmentation de la population humaine à l'état de nature, due à une nature bienveillante et accueillante. Avec l'augmentation des rencontres entre individus, de nouvelles interactions se créent, et c'est ainsi que la perfectibilité joue un rôle dans la formation des sociétés humaines. Ce processus de création sociale découle donc directement de cette disposition.
+
+Donc, chez Descartes, les concepts clés sont l'étendue et les lois de la nature. En ce qui concerne Rousseau, je vous en donnerai la preuve au début du deuxième cours. Pensez directement à Descartes et à ses idées. Chez Rousseau, les principes fondamentaux sont l'amour de soi et la pitié, auxquels s'ajoute la perfectibilité.
+
+Chez Descartes, les concepts clés sont l'étendue et les lois de la nature. Chez Rousseau, qui s'inspire directement de Descartes, les concepts essentiels sont l'amour de soi, la pitié et la perfectibilité.
+
+Question : Ces principes, s'ils sont plutôt des fondements d’évaluation alors ils sont en milieu ?
+
+Ils le sont parce qu'ils sont immédiatement actifs dans l'être sensible. Ils sont ce qui est immédiatement attaché à l'existence de cet être sensible qu'est l'homme.
+
+Question : La différence entre les principes et le disposition ?
+
+Les principes de l'amour de soi et de la pitié sont immédiatement actifs dans l'être sensible. En revanche, la perfectibilité n'est pas active de manière immédiate. Elle nécessite des circonstances particulières pour se manifester. C'est là que réside la différence.
+
+Question : Est-ce que Rousseau est mécaniste ?
+
+Rousseau n'est pas intégralement mécaniste au sens où il adopterait une vision matérialiste de la nature humaine. Ce qui l'intéresse avant tout, c'est l'épistémologie, ou la méthode. Il ne s'agit pas pour lui de formuler des thèses sur la nature humaine.
+
+Question : La différence entre la perfectibilité et la perfection ?
+
+À un certain moment dans le développement de la nature humaine, cet être va développer des aspirations plus élevées, qui pourraient être perçues comme définissant la perfection de sa nature, par exemple, l'amour de Dieu. Cependant, la *perfectibilité*, chez Rousseau, est quelque chose de plus rudimentaire et fondamental. Elle doit être comprise comme la capacité de l'homme à se perfectionner en fonction des circonstances extérieures. Elle n'est pas attachée à l'idée de perfection telle qu'on la comprend habituellement. Dans le *Second discours*, la *perfectibilité* n'est pas associée à l'atteinte d'une position idéale ou d'un état de perfection, mais plutôt à la potentialité d'évolution, à la capacité d'adaptation et de transformation selon les conditions environnantes.
