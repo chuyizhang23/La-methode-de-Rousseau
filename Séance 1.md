@@ -219,7 +219,7 @@ Dans le cas de l'humanité, cet état primitif, chez Rousseau, est celui de l'ho
 >
 > C'est le monde tel que nous le percevons : un ordre primitif, c'est-à-dire le système solaire avec ses planètes, ses phénomènes, ses éclipses, etc., ou bien la société humaine caractérisée par des riches et des pauvres, des inégalités, des dominations, des guerres, et ainsi de suite. La démarche rationnelle consiste donc à expliquer ces phénomènes à partir d'un état primitif, qu'il s'agisse de l'humanité ou de la matière.
 >
-> Question : Est-ce que dans l'état primitif il y a de la perfectivité ?
+> Question : Est-ce que dans l'état primitif il y a de la perfectibilité ?
 >
 > Oui, absolument. Nous reviendrons un peu plus tard sur ce qu'il y a précisément dans cet état primitif, car il s'agit d'une question délicate. Il existe, en effet, des "principes primitifs", des éléments donnés dès l'origine, qui structurent cet état. Ce qui est important de noter, c'est que Rousseau lui-même reconnaît dans Les Dialogues qu'il a progressivement découvert ces principes primitifs au fil de son travail. Il affirme qu'il n'est remonté complètement aux premiers principes que dans Émile.
 
