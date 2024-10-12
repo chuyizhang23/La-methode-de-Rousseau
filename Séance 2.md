@@ -45,8 +45,70 @@ Ce qui importe réellement, c'est de comprendre que ces propositions, bien qu'el
 
 Le rationalisme de l'époque moderne, du XVIIᵉ et XVIIIᵉ siècle, est bien plus échevelé qu'on ne l'imagine. Ce n'est pas une systématicité rigide. Parfois, cela ressemble davantage aux aventures du baron de Münchhausen qu'à une critique de la culture. Lorsque l'on examine les Principes de la philosophie, il faut consacrer 40 pages à la métaphysique, 40 pages aux principes de la physique, et toute la suite constitue une fiction, selon Descartes. Ensuite, il y a 400 pages qui relatent le récit de la formation des cieux, des planètes, du monde et de ses fondements. Tout cela est une fiction, selon Descartes.
 
-Dans l'article que je vais citer, extrait des *Principes de la philosophie* de Descartes, plus précisément l'article 45 de la troisième partie, Descartes développe l'argument selon lequel Dieu a tout créé d'un seul coup. Dieu a ainsi créé le ciel, la terre, mais aussi les plantes dans leur état de maturité, avec leurs fruits, et Adam et Ève à l'état adulte. Ils n'ont pas été créés comme des enfants. Tout a été créé d'un coup par Dieu. C'est ce que Descartes présente comme le dogme fondamental de la création instantanée.
+Dans l'article que je vais citer, extrait des *Principes de la philosophie* de Descartes, plus précisément l'article 45 de la troisième partie, Descartes développe l'argument selon lequel Dieu a tout créé d'un seul coup. Dieu a ainsi créé le ciel, la terre, mais aussi les plantes dans leur état de maturité, avec leurs fruits, et Adam et Ève à l'état adulte. Ils n'ont pas été créés comme des enfants. Tout a été créé d'un coup par Dieu. C'est ce que Descartes présente comme le dogme.
 
-> Et bien que Dieu ait créé dès le commencement la matière avec toutes ses propriétés, et que le monde ait toujours été tel qu’il est à présent, on le comprendrait beaucoup mieux si l’on pouvait voir la manière dont il s’est formé peu à peu, selon que je m’efforcerai de l’expliquer ici. De même que, bien que Dieu ait tout créé d’un seul coup, on comprendrait beaucoup mieux la nature d’Adam et celle des arbres du Paradis, si l’on avait examiné comment les enfants se forment progressivement dans le ventre de leurs mères, et comment les plantes germent à partir de leurs semences.
+Et Descartes poursuit :
+
+> Mais néanmoins, comme on connaîtrait beaucoup mieux quelle a été la nature d’Adam et celle des arbres du paradis si on avait examiné comment les enfants se forment peu à peu dans le ventre de leurs mères, et comment les plantes sortent de leurs semences, que si on avait seulement considéré quels ils ont été quand Dieu les a créés : tout de même, nous ferons mieux entendre qu’elle est généralement la nature de toutes les choses qui sont au monde si nous pouvons imaginer quelques principes qui soient fort intelligibles et fort simples, desquels nous fassions voir clairement que les astres et la terre, et enfin tout ce monde visible aurait pu être produit ainsi que de quelques semences (bien que nous sachions qu’il n’a pas été produit en cette façon), que si nous le décrivions seulement comme il est, ou bien comme nous croyons qu’il a été créé. Et parce que je pense avoir trouvé des principes qui sont tels, je tâcherai ici de les expliquer.
 
 La première partie de l'argument consiste à dire que si l'on veut réellement comprendre ce qu'est un homme ou une plante, il est plus difficile de le faire en les observant déjà formés, dans leur état final. Il est beaucoup plus complexe de saisir les règles de leur fonctionnement ainsi. En revanche, si l'on examine leur développement progressif, comme la formation d'un enfant dans le ventre de sa mère ou la germination d'une plante à partir de sa semence, on pourra mieux comprendre leur nature. C'est ce que Descartes exprime : on comprend beaucoup mieux en suivant le processus de formation plutôt qu'en se contentant d'observer l'état achevé des êtres tels qu'ils ont été créés par Dieu.
+
+Ce texte, l'article 3,45 des *Principes de la philosophie* de Descartes, constitue véritablement un pilier fondateur dans l'histoire de la rationalité occidentale. C’est un texte auquel Kant lui-même fera référence. Avant même d’écrire *La Critique de la raison pure*, Kant, déjà un grand philosophe, avait produit plusieurs œuvres importantes, dont une *Théorie du ciel*. Kant parle lui aussi de l’unité et de la causalité dans l’explication du monde.
+
+Mais ce qui est crucial ici, c’est que ce texte de Descartes contient le principe même d’une explication rationnelle : un petit nombre de principes fondamentaux, une chaîne cohérente de raisonnements, et à partir de cela, le plus grand nombre de conclusions possibles. C’est le fondement d’une méthode explicative rationnelle. Voilà ce que Descartes met en place ici, et c’est également la justification de son recours à la fable comme outil explicatif.
+
+> **Question : Je me demande, pourquoi Descartes propose une explication progressive de la formation du monde alors qu'il affirme que Dieu a tout créé instantanément ?**
+>
+> Chez Descartes, il ne s'agit pas d'une contradiction fondamentale, mais plutôt d'une contradiction de fait. La justification que Descartes donne à cette explication progressive est que, dans son état achevé, le monde est trop complexe pour être compris par l'entendement humain, qui est limité. Par conséquent, il est nécessaire de produire une explication progressive, car c'est la seule manière proportionnée à notre capacité d'expliquer les phénomènes. Si nous nous contentions d'observer le monde dans son état final, nous ne pourrions pas le comprendre. Cependant, il est important de ne pas perdre de vue que cette explication progressive reste une fiction rationnelle destinée à expliquer ce que nous voyons, ou ce que la révélation nous montre, et qui a le mérite de nous renvoyer à la réalité observable.
+>
+> On pourrait dire que sa justification est épistémique. Pour les besoins de la connaissance, on ne peut pas faire autrement.
+>
+> **Question : Est-ce que l'on peut dire que c'est une fiction ?**
+>
+> Oui, sous une forme progressive. Et cette forme progressive est donc nécessairement une fiction, puisque la révélation nous dit que le monde a été créé d'un seul coup.
+>
+> **Question : Est-ce que vous pourriez expliquer le passage en des termes plus simples ?**
+>
+> Si l'on veut expliquer le fonctionnement du corps humain avec toutes ses fonctions, comme la reproduction, ou celui d'une plante, Descartes nous dit qu'on ne peut pas partir de leur état final, c'est-à-dire d'un homme ou d'une plante déjà formés. On pourrait penser qu'il suffirait de les décomposer en parties, mais cela ne nous donnerait que les éléments constitutifs, sans vraiment expliquer leur fonctionnement. Il faut montrer comment les parties s'articulent les unes aux autres pour comprendre l'ensemble.
+>
+> Descartes propose donc que, pour expliquer ce qu'est un homme ou un arbre, le mieux est d'examiner comment les enfants se développent dans le ventre de leur mère, et de la même manière, comment une graine germe et devient une plante.
+>
+> En suivant cette logique, si l'on veut expliquer le monde, on ne peut pas se contenter d'observer le monde tel qu'il est dans son état final, car c'est trop complexe. Mais si on commence par le minimum — c'est-à-dire, en considérant que le monde est matériel et qu'il est régi par des lois — et qu'on prend les choses dans un ordre progressif, on pourra alors expliquer ce que nous observons aujourd'hui.
+>
+> Tout cela, bien sûr, reste une fiction rationnelle selon Descartes, car il reconnaît que, selon la Révélation chrétienne, le monde a été créé d'un seul coup.
+>
+> **Question : Je pense que dans la première opération que vous avez faite, en regardant le développement du fœtus ou de la graine, on s'intéresse à la matière et à la cause. Mais quand on analyse le monde en le commentant, est-ce qu'il s'agit d'une synthèse ou d'une analyse ?**
+>
+> Dans les deux cas, il s'agit d'analyse. Ces démarches sont analytiques parce qu'on suit le développement progressif de l'objet pour en fournir une explication. Que ce soit en étudiant le développement du fœtus ou en expliquant la formation du monde, on procède de manière analytique. C'est le principe même de l'analyse : exposer l'objet en suivant son processus de formation.
+>
+> Dans le deuxième cas, dans la fiction du monde, cela prend énormément de temps. Sauf que cela ne s'est pas vraiment passé comme ça. C'est une fiction. Les principes initiaux, c'est une fiction. Mais pour cette fiction, on se donne un temps indéfini.
+>
+> Les lois générales et les principes, ce sont des vérités. Elles ont été exposées dans la deuxième partie des Principes de la philosophie. Selon Descartes, on a prouvé que les règles du choc sont toutes fausses, mais de toute façon, il considère qu'il a démontré les vrais principes de la physique. Il a dégagé trois lois de la nature.
+>
+> **Question : Donc, est-ce que Descartes s'inscrit aussi dans la fiction ?**
+>
+> Absolument. Et à tel point que, dans *Les Principes de la philosophie*, vous trouverez même des représentations visuelles, des sortes de "bandes dessinées", pour illustrer certaines explications, par exemple la formation des planètes. Ces schémas, que je pourrais vous montrer en cours, présentent différentes étapes du processus. Descartes distingue plusieurs cases, et vous pouvez voir un globe, une planète en formation, avec des couches de matière en feu qui se modifient progressivement pour aboutir à la création d'une planète. Mais bien sûr, tout cela se déroule dans une temporalité fictive. C'est une fiction temporelle qui sert à rendre compréhensible ce processus progressif.
+>
+> **Question : Et on voit une cause qui vient de l'autre ?**
+>
+> Pour Descartes, la cause première du mouvement, c'est Dieu. C'est Dieu qui met en mouvement l'univers. Mais cela pose un problème, et ce n'est pas à cause du fait qu'il attribue tout à Dieu. Le véritable problème, c'est la nature même de ce Dieu. On pourrait d'ailleurs, comme l'a fait Spinoza, remplacer "Dieu" par "la nature". Spinoza, en reprenant les principes de la physique de Descartes, fait juste cette modification : il appelle la cause première "nature" au lieu de "Dieu".
+>
+> Chez Descartes, Dieu n'agit pas directement dans le monde après l'acte initial. Son rôle se limite à maintenir l'identité du mouvement. En d'autres termes, on pourrait aussi dire que le mouvement est une propriété indestructible de la matière, ce qui revient au même.
+>
+> Ensuite, il y a ce qu'on appelle les causes secondes. Ce sont les lois de la nature qui régissent le fonctionnement du monde après cette mise en mouvement initiale.
+>
+> Le vrai problème, c'est qu'un foetus, on peut l'observer, mais une planète en formation, pour Descartes, non. Donc, il est obligé de multiplier des analogies pour soutenir ces hypothèses de départ.
+
+Qu'est-ce que l'ordre, selon Descartes ? Il en donne deux critères essentiels à suivre. Descartes explique clairement que l'ordre est le principal secret de la méthode, comme il l'expose dans *Le Discours de la méthode*.
+
+Première règle : une nouvelle proposition doit être tirée de celle qui précède. Cela signifie qu'il ne doit pas y avoir de solution de continuité, un principe essentiel dans de nombreux domaines, y compris l'anthropologie. L'expression "solution de continuité" désigne l'absence d'une étape dans un raisonnement, c'est-à-dire qu'il manque un maillon dans la chaîne logique.
+
+Je vais vous donner un exemple de solution de continuité. Supposons que vous disiez : « Je parle de la nature humaine et je vais expliquer tout ce qu'elle a produit. » C'est, en somme, ce que Rousseau prétend faire dans son récit. Mais soudain, face à la question du mal sur Terre, vous introduisez le péché originel. En réalité, à ce moment-là, vous ne dérivez plus ce qui suit de ce que vous avez initialement établi.
+
+La deuxième règle est révolutionnaire en philosophie : il ne faut jamais introduire dans la déduction des propositions qui n'ont pas été établies auparavant. Il s'agit de principes fondamentaux dans la formation philosophique, en particulier en philosophie de la connaissance.
+
+Pourquoi Descartes insiste-t-il sur ce point ? Comment fonctionnait la déduction chez Aristote ? Le principal outil de déduction est le syllogisme. Cependant, chez Aristote, on ne se contente pas des propositions contenues dans le syllogisme. Il est possible de chercher des propositions externes, telles que des systèmes de classification ou des définitions établies ailleurs, comme « l'homme est un animal raisonnable ». Tous ces éléments, regroupés sous le nom de "topiques", servaient à compléter le raisonnement.
+
+Ainsi, pour déduire correctement selon la méthode aristotélicienne, deux disciplines étaient nécessaires : la syllogistique, pour structurer les arguments, et les topiques, pour chercher des arguments externes. Ce que Descartes propose avec sa méthode, c'est de ne plus recourir à ces topiques. Il faut se limiter à déduire chaque proposition à partir de celle qui précède, conformément à la première règle, et ne jamais introduire dans la déduction des éléments qui n'ont pas été démontrés au préalable.
+
+Expliquer le monde selon l'ordre, en suivant la méthode de Descartes, signifie s'appuyer uniquement sur ce dont la nature a été clarifiée : la substance matérielle et les lois. Cela veut dire que l'on se fonde sur ce que l'on sait de la nature des corps, qui est la substance étendue, et sur les trois lois qui ont été démontrées. Rien d'autre ne sera introduit dans l'explication. De plus, l'explication, bien que fictive, se doit de respecter le principe d'absence de solution de continuité, c'est-à-dire sans sauter d'étapes. C'est pour cela que l'exposé prend 400 pages : chaque étape doit découler logiquement de la précédente.
