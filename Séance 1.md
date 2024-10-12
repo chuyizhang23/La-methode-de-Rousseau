@@ -153,7 +153,7 @@ La guerre, selon Rousseau, est un exemple typique de l'illusion de récurrence q
 
 Pourquoi l'homme est-il méchant ? Pour Rousseau, cela ne fait aucun doute : les hommes sont très méchants les uns envers les autres. Cependant, au lieu d'expliquer comment la société a façonné la nature humaine au point que les hommes deviennent méchants, on se contente souvent d'une explication récurrente, en attribuant cette méchanceté à un état originel. Cela conduit à des solutions simplistes comme l'idée du péché originel ou de la conflictualité universelle. Dans ce cas, on projette le mal dès les commencements, comme s'il existait dès l'origine, sans chercher à comprendre comment la société a contribué à ce processus. Rousseau critique cette approche, car pour lui, c'est la société qui corrompt l'homme, et non une méchanceté innée ou une faute initiale.
 
-Un autre exemple, crucial pour Rousseau mais peut-être moins évident à deviner, est la société elle-même. Selon Rousseau, la société ne doit pas être expliquée par une récurrence, c'est-à-dire en partant de l'idée que les hommes seraient naturellement sociables. En effet, pour Rousseau, il n'existe pas de sociabilité naturelle. Ainsi, il se positionne contre plusieurs courants de pensée : d'une part, contre Hobbes et sa notion de conflictualité universelle, d'autre part, contre les Jurisconsulte et les théoriciens du droit naturel qui prônent l'idée d'une sociabilité innée chez les hommes, et enfin, contre la doctrine religieuse du péché originel.
+Un autre exemple, crucial pour Rousseau mais peut-être moins évident à deviner, est la société elle-même. Selon Rousseau, la société ne doit pas être expliquée par une récurrence, c'est-à-dire en partant de l'idée que les hommes seraient naturellement sociables. En effet, pour Rousseau, il n'existe pas de sociabilité naturelle. Ainsi, il se positionne contre plusieurs courants de pensée : d'une part, contre Hobbes et sa notion de conflictualité universelle, d'autre part, contre les jurisconsulte et les théoriciens du droit naturel qui prônent l'idée d'une sociabilité innée chez les hommes, et enfin, contre la doctrine religieuse du péché originel.
 
 ### L'analyse
 
@@ -199,7 +199,7 @@ Rousseau adopte effectivement un ordre d'exposition classique en philosophie, ma
 
 Les premiers mots du titre sont « Discours sur l'origine ». Et que lit-on immédiatement, deux pages après le titre ? Dans la citation, Rousseau précise : « Ce n'est pas la véritable origine ». On observe ainsi une dialectique qui n'est pas évidente à clarifier. En effet, bien que le titre fasse référence à l'origine, il est essentiel de comprendre que, dans ce contexte, « origine » ne se réfère pas à la véritable origine historique. Autrement dit, Rousseau ne cherche pas à compliquer une situation déjà complexe en se référant à une origine factuelle. Il ne s'agit pas de décrire des événements survenus il y a 30 000 ans. Cependant, cette précision demeure saisissante, car Rousseau qualifie tout ce que l'on peut tirer de cette « origine » non véritable de raisonnement hypothétique et conditionnel. Ainsi, lorsqu'il parle d'origine, il entend par là des hypothèses et des conditions, et non une origine historique factuelle.
 
-> Question : Mais n'est-il pas seulement le propre de la pensée d'être justement une interprétation qui peut certes chercher à tendre à se rapprocher de plus en plus du réel, mais qui, contrairement aux physiciens, ne se passe jamais sur le réel ?
+> **Question : Mais n'est-il pas seulement le propre de la pensée d'être justement une interprétation qui peut certes chercher à tendre à se rapprocher de plus en plus du réel, mais qui, contrairement aux physiciens, ne se passe jamais sur le réel ?**
 >
 > Le point essentiel est que, si l'on adopte cette position conforme à celle de Rousseau, il ne s'agit pas de traiter de l'origine factuelle, mais de celle hypothétique, qu'il convient néanmoins de justifier. En effet, ce qu'il faut expliquer, c'est l'état actuel des choses, notamment l'inégalité qui, selon Rousseau, règne dans toutes les sociétés modernes. Il existe différentes sortes d'inégalités, qui finissent par se manifester principalement sous forme d'inégalités économiques, telles que les inégalités de rentes ou de prestige. Il est donc nécessaire d'expliquer ce que nous observons : une inégalité généralisée. Cependant, Rousseau ne prétend pas le faire en retraçant un développement historique précis et vérifiable.
 
@@ -207,7 +207,7 @@ Dans le texte que je vous ai donné, un autre terme clé est "raisonnement", qu'
 
 En d'autres termes, raisonner signifie que chaque étape doit découler logiquement de la précédente, sans qu'on introduise des principes qui n'auraient pas été posés dès le départ. Le refus des solutions de continuité est central ici. Le terme "solution de continuité" peut prêter à confusion : en français, il désigne un saut ou une rupture dans la continuité, et non une "solution" au sens commun du terme. Refuser toute solution de continuité revient donc à s'assurer qu'il n'y ait aucun écart ou saut logique dans le raisonnement. Ces deux points — l'absence de solution de continuité et l'absence de principes externes — sont fondamentaux pour structurer le raisonnement.
 
-> Question : Je me disais, mais est-ce que ce ne serait pas presque une méthode épistémologique ?
+> **Question : Je me disais, mais est-ce que ce ne serait pas presque une méthode épistémologique ?**
 >
 > Si. D'ailleurs, il nous dit qu'il va procéder un peu comme les physiciens le font pour la formation du globe.
 
@@ -215,11 +215,11 @@ En effet, Rousseau fait explicitement référence à ce qu'on appelait, au XVIII
 
 Dans le cas de l'humanité, cet état primitif, chez Rousseau, est celui de l'homme à l'état de nature. Cet homme n'est pas sociable, il est isolé, sans langage, sans idées complexes. Dans La Lettre à Christophe de Beaumont, Rousseau va même jusqu'à dire que l'homme à l'état de nature est « nul » et « bête ». Il n'a pas encore développé les caractéristiques de l'homme civilisé, mais, et c'est essentiel, il n'est pas naturellement violent.
 
-> Question : Quand vous dites qu'il nous emploie un ordre à partir de l'état primitif. L'ordre c'est quoi ?
+> **Question : Quand vous dites qu'il nous emploie un ordre à partir de l'état primitif. L'ordre c'est quoi ?**
 >
 > C'est le monde tel que nous le percevons : un ordre primitif, c'est-à-dire le système solaire avec ses planètes, ses phénomènes, ses éclipses, etc., ou bien la société humaine caractérisée par des riches et des pauvres, des inégalités, des dominations, des guerres, et ainsi de suite. La démarche rationnelle consiste donc à expliquer ces phénomènes à partir d'un état primitif, qu'il s'agisse de l'humanité ou de la matière.
 >
-> Question : Est-ce que dans l'état primitif il y a de la perfectibilité ?
+> **Question : Est-ce que dans l'état primitif il y a de la perfectibilité ?**
 >
 > Oui, absolument. Nous reviendrons un peu plus tard sur ce qu'il y a précisément dans cet état primitif, car il s'agit d'une question délicate. Il existe, en effet, des "principes primitifs", des éléments donnés dès l'origine, qui structurent cet état. Ce qui est important de noter, c'est que Rousseau lui-même reconnaît dans Les Dialogues qu'il a progressivement découvert ces principes primitifs au fil de son travail. Il affirme qu'il n'est remonté complètement aux premiers principes que dans Émile.
 
@@ -243,7 +243,7 @@ Chez Descartes, il est question d'un amas, d'un chaos de matière qui, progressi
 
 Cependant, Descartes insiste bien sur le fait que cette explication est une fable, une fiction rationnelle. Cette hypothèse est nécessairement spéculative, car l'état de chaos primitif de la matière n'est pas observable. Ce que nous avons sous les yeux, c'est un monde déjà formé. Nous ne pouvons pas observer ce chaos initial, tout comme, chez Rousseau, nous ne pouvons pas observer la véritable origine de l'humanité. Elle est, pour ainsi dire, abolie. En revanche, tout comme Descartes pose un état primitif de la matière pour expliquer la formation du cosmos, Rousseau pose un état primitif de l'homme à partir duquel il dérive progressivement les dimensions de la nature humaine.
 
-> Question : Cette fiction est-elle la conclusion d'une étude dont il est convaincu ou s'agit-il simplement d'une forme d'auto-préservation ?
+> **Question : Cette fiction est-elle la conclusion d'une étude dont il est convaincu ou s'agit-il simplement d'une forme d'auto-préservation ?**
 >
 > Il y a en effet deux approches pour comprendre la stratégie cartésienne. Certains commentateurs avancent que cette méthode relève de l'*art de l'écriture* : Descartes, pour éviter les conflits avec la théologie, aurait proposé une hypothèse cosmologique sans y croire vraiment, notamment face à la version biblique de la création en six jours. Selon cette hypothèse, il s'agirait d'une manière de se protéger des critiques religieuses, tout en présentant une cosmologie rationnelle.
 >
@@ -291,7 +291,7 @@ Qu'est-ce qui peut bien tenir lieu de principes, non plus en physique du globe, 
 
 - La pitié
 
-  > Question : La pitié, ce n'est pas indirectement lié à la peur de sa propre mort ? On éprouve de la pitié pour quelqu'un parce qu'on s'imagine à sa place.
+  > **Question : La pitié, ce n'est pas indirectement lié à la peur de sa propre mort ? On éprouve de la pitié pour quelqu'un parce qu'on s'imagine à sa place.**
   >
   > C'est un propos qui concerne justement *Émile*.
 
@@ -299,30 +299,30 @@ Qu'est-ce qui peut bien tenir lieu de principes, non plus en physique du globe, 
 
   C'est le fait de pouvoir activer d'autres facultés.
 
-Question : Il est comptabilisé dans les principes, la perfectibilité ?
-
-Vous avez tout à fait raison de souligner que les véritables principes chez Rousseau sont l'amour de soi et la pitié. Quant à la perfectibilité, elle occupe un statut différent, celui d'une disposition. Ce terme est en effet très intéressant et souvent sous-estimé en philosophie. Alors que la philosophie traditionnelle se concentre souvent sur des notions de substances, de natures, ou de relations, la disposition est un concept fascinant car il ne se limite ni à une substance figée ni à une relation purement externe.
-
-La disposition implique une potentialité, une capacité à être activée sous certaines conditions. Dans le cas de la perfectibilité, celle-ci n'opère qu'en fonction des circonstances. C'est la faculté qui permet à l'être humain de développer progressivement de nouvelles aptitudes en fonction des changements dans son environnement. Par exemple, dans l'état de nature, l'homme n'a ni mémoire, ni imagination, ni entendement, ni langage. Ces facultés se développent à mesure que les circonstances évoluent, et tout cela procède de la perfectibilité.
-
-La perfectibilité n'est donc pas un principe inné qui agit spontanément en l'homme, mais une capacité latente, activée par les circonstances. Il faut des changements extérieurs pour que la perfectibilité se mette en marche. Un exemple déterminant est l'augmentation de la population humaine à l'état de nature, due à une nature bienveillante et accueillante. Avec l'augmentation des rencontres entre individus, de nouvelles interactions se créent, et c'est ainsi que la perfectibilité joue un rôle dans la formation des sociétés humaines. Ce processus de création sociale découle donc directement de cette disposition.
+> **Question : Il est comptabilisé dans les principes, la perfectibilité ?**
+>
+> Vous avez tout à fait raison de souligner que les véritables principes chez Rousseau sont l'amour de soi et la pitié. Quant à la perfectibilité, elle occupe un statut différent, celui d'une disposition. Ce terme est en effet très intéressant et souvent sous-estimé en philosophie. Alors que la philosophie traditionnelle se concentre souvent sur des notions de substances, de natures, ou de relations, la disposition est un concept fascinant car il ne se limite ni à une substance figée ni à une relation purement externe.
+>
+> La disposition implique une potentialité, une capacité à être activée sous certaines conditions. Dans le cas de la perfectibilité, celle-ci n'opère qu'en fonction des circonstances. C'est la faculté qui permet à l'être humain de développer progressivement de nouvelles aptitudes en fonction des changements dans son environnement. Par exemple, dans l'état de nature, l'homme n'a ni mémoire, ni imagination, ni entendement, ni langage. Ces facultés se développent à mesure que les circonstances évoluent, et tout cela procède de la perfectibilité.
+>
+> La perfectibilité n'est donc pas un principe inné qui agit spontanément en l'homme, mais une capacité latente, activée par les circonstances. Il faut des changements extérieurs pour que la perfectibilité se mette en marche. Un exemple déterminant est l'augmentation de la population humaine à l'état de nature, due à une nature bienveillante et accueillante. Avec l'augmentation des rencontres entre individus, de nouvelles interactions se créent, et c'est ainsi que la perfectibilité joue un rôle dans la formation des sociétés humaines. Ce processus de création sociale découle donc directement de cette disposition.
 
 Donc, chez Descartes, les concepts clés sont l'étendue et les lois de la nature. En ce qui concerne Rousseau, je vous en donnerai la preuve au début du deuxième cours. Pensez directement à Descartes et à ses idées. Chez Rousseau, les principes fondamentaux sont l'amour de soi et la pitié, auxquels s'ajoute la perfectibilité.
 
 Chez Descartes, les concepts clés sont l'étendue et les lois de la nature. Chez Rousseau, qui s'inspire directement de Descartes, les concepts essentiels sont l'amour de soi, la pitié et la perfectibilité.
 
-> Question : Ces principes, s'ils sont plutôt des fondements d’évaluation alors ils sont en milieu ?
+>**Question : Ces principes, s'ils sont plutôt des fondements d’évaluation alors ils sont en milieu ?**
 >
 > Ils le sont parce qu'ils sont immédiatement actifs dans l'être sensible. Ils sont ce qui est immédiatement attaché à l'existence de cet être sensible qu'est l'homme.
 >
-> Question : La différence entre les principes et le disposition ?
+> **Question : La différence entre les principes et le disposition ?**
 >
 > Les principes de l'amour de soi et de la pitié sont immédiatement actifs dans l'être sensible. En revanche, la perfectibilité n'est pas active de manière immédiate. Elle nécessite des circonstances particulières pour se manifester. C'est là que réside la différence.
 >
-> Question : Est-ce que Rousseau est mécaniste ?
+> **Question : Est-ce que Rousseau est mécaniste ?**
 >
 > Rousseau n'est pas intégralement mécaniste au sens où il adopterait une vision matérialiste de la nature humaine. Ce qui l'intéresse avant tout, c'est l'épistémologie, ou la méthode. Il ne s'agit pas pour lui de formuler des thèses sur la nature humaine.
 >
-> Question : La différence entre la perfectibilité et la perfection ?
+> **Question : La différence entre la perfectibilité et la perfection ?**
 >
 > À un certain moment dans le développement de la nature humaine, cet être va développer des aspirations plus élevées, qui pourraient être perçues comme définissant la perfection de sa nature, par exemple, l'amour de Dieu. Cependant, la *perfectibilité*, chez Rousseau, est quelque chose de plus rudimentaire et fondamental. Elle doit être comprise comme la capacité de l'homme à se perfectionner en fonction des circonstances extérieures. Elle n'est pas attachée à l'idée de perfection telle qu'on la comprend habituellement. Dans le *Second discours*, la *perfectibilité* n'est pas associée à l'atteinte d'une position idéale ou d'un état de perfection, mais plutôt à la potentialité d'évolution, à la capacité d'adaptation et de transformation selon les conditions environnantes.
